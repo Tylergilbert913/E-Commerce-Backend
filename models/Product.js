@@ -23,6 +23,10 @@ Product.init(
       type: DataTypes.DECIMAL,
       allowNull: false,
     },// define columns.
+    stock: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+    },
   },
   {
     sequelize,
