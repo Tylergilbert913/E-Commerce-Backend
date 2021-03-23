@@ -15,14 +15,20 @@ ProductTag.init(
 
     product_id: {
       type: DataTypes.INTEGER,
-      allowNull: false,
+      refernces: {
+        model: 'product',
+        key: 'id',
+      }
 
     },
     tag_id: {
       type: DataTypes.INTEGER,
-      allowNull: false,
-
-    },
+      refernces: {
+        model: 'product',
+        key: 'id',
+        unique: false
+      }
+    }
   },
   {
     sequelize,
