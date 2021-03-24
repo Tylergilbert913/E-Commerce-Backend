@@ -3,7 +3,7 @@ const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}
-
+// tables created with models
 Tag.init(
   {
     // defined columns
