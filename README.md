@@ -8,11 +8,8 @@ https://opensource.org/licenses/MIT
 
 ## Demo Video of Application
 
-https://drive.google.com/file/d/1drtq64PDSEAeAMQH4FvPPq9DBV1UoZpK/view
+https://drive.google.com/file/d/1SOju0n5_u5fmUmBmuqTUM5rp89k8gyct/view
 
-I wasn't able to make the "put" work for the tags, but everything else was working correctly. 
-
-    
 ## Description 
     
 This application was created for employees/managers to easily manage their products by updating categories, products and their tags.
