@@ -6,7 +6,7 @@
 
 https://opensource.org/licenses/MIT
 
-## Demo Video of Applciation
+## Demo Video of Application
 
 https://drive.google.com/file/d/1drtq64PDSEAeAMQH4FvPPq9DBV1UoZpK/view
 
