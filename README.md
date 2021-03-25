@@ -10,6 +10,10 @@ https://opensource.org/licenses/MIT
 
 https://drive.google.com/file/d/1SOju0n5_u5fmUmBmuqTUM5rp89k8gyct/view
 
+## Demo Video of Seeding The Database
+
+https://drive.google.com/file/d/19--fq_wjL8pbxeTAKNMgAEh6KxWRv8C2/view
+
 ## Description 
     
 This application was created for employees/managers to easily manage their products by updating categories, products and their tags.
